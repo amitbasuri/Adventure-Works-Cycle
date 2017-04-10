@@ -1,6 +1,5 @@
 # Adventure-Works-Cycle
 
-AWCustomers.csv
 
 Customer demographic data consisting of the following fields:
 
